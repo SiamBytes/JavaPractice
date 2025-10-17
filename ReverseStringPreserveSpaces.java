@@ -1,3 +1,7 @@
+
+
+package com.javapractice;
+
 public class ReverseStringPreserveSpaces {
     public static void main(String[] args) {
         String input = "I am QA Tester";
@@ -24,3 +28,4 @@ public class ReverseStringPreserveSpaces {
         System.out.println("Output: " + String.valueOf(result));
     }
 }
+
